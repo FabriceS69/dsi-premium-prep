@@ -72,7 +72,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 1]()
+**Recording**: [Lecture 1](https://youtu.be/-VinOFN_FHg)
 
 
 ---------------------------------------------------------
