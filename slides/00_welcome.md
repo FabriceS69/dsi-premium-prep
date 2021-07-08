@@ -19,20 +19,21 @@
 
 # Overview
 
-#### 5 Weeks 
+#### 5 Weeks
 > M - Th  :    6 pm - 8 pm PT
->  Sat       :  11 am - 1:00/1:30 pm PT 
+>  Sat       :  11 am - 1:00/1:30 pm PT
 * [Zoom Meeting](https://zoom.us/j/98989113857?pwd=UUwzcXRsTDZwNjJEQTh2WlBNNldoQT09)
 * DSI Prep Team
     * [Clark Walker](https://www.linkedin.com/in/clark-walker/) | Python Instructor | clark.walker@galvanize.com
     * [Tovio Roberts](https://www.linkedin.com/in/tovio-roberts/) | Stats Instructor | tovio.roberts@galvanize.com
-    * Team Members: 
+    * Team Members:
         * Tovio Roberts | tovio.roberts@galvanize.com
         * Lance Barto | lance.barto@galvanize.com
         * Remi Arata | remi.arata@galvanize.com
         * Devon DeJohn | devon.dejohn@galvanize.com
         * Clark Walker | clark.walker@galvanize.com
         * David Coleman (team admin) | david.coleman@galvanize.com
+        
 
 
 <br><br><br><br><br><br><br><br><br>
@@ -62,7 +63,7 @@
 # Lecture Recordings
 **We will be hosting recordings of these lectures on our [YouTube channel](https://www.youtube.com/channel/UC65Th93eDb2iuD-9fZVnjFg)**
 * We will update this [GitHub repo](https://github.com/GalvanizeOpenSource/dsi-premium-prep) with links to the recordings
-* To maintain privacy and anonymity, please do not say your name or the names of other students. 
+* To maintain privacy and anonymity, please do not say your name or the names of other students.
     * We will edit those moments out if this occurs, which will delay making the vids available
 * We will not say your names. If you notice that we do or if we share any other student info, please inform us by direct message.
 
@@ -164,7 +165,7 @@ There are no wrong answers here. That said, let's look at the expectations we ha
 * Generally: Cover a topic 5-15 minutes, breakout for 3-7 minutes, rinse and repeat
 * Occasionally: A concept-heavier lecture with free form questions throughout
 * Question breaks (timeboxed to ~5 minutes)
-    * Post questions in Slack, 
+    * Post questions in Slack,
         * Unanswered questions will be followed up or one-on-one
         * Post in Slack or Ask a mentor outside of lecture
 
@@ -294,7 +295,7 @@ There are no wrong answers here. That said, let's look at the expectations we ha
 # Thinking Critically
 * Early in their education, many aspiring data scientists focus on learning all of the programming tools/languages, mathematics, technologies, etc . . . these are necessary tools, but what makes a great data scientist is more complex:
     * The ability to think critically about a problem, and approach a solution with a scientific/evidence based approach
-    * The ability to ask the right question. Asking the question that will lead to an answer which will provide insight to the business, science, or research project they’re working on. 
+    * The ability to ask the right question. Asking the question that will lead to an answer which will provide insight to the business, science, or research project they’re working on.
     * A great data scientist is obsessed with solving complex problems, and will use any tool necessary to come up with an acceptable solution; even when that means they need to make a new tool themselves.
 * Develop consciousness of your biases
     * [Wikipedia List of Cognitive Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
