@@ -32,8 +32,7 @@
         * Remi Arata | remi.arata@galvanize.com
         * Devon DeJohn | devon.dejohn@galvanize.com
         * Clark Walker | clark.walker@galvanize.com
-        * David Coleman (team admin) | david.coleman@galvanize.com
-        
+        * Jess Bahl (team admin) | jessica.bahl@galvanize.com
 
 
 <br><br><br><br><br><br><br><br><br>
@@ -61,7 +60,7 @@
 
 ----------------------------------------------------------------
 # Lecture Recordings
-**We will be hosting recordings of these lectures on our [YouTube channel](https://www.youtube.com/channel/UC65Th93eDb2iuD-9fZVnjFg)**
+**We will be hosting recordings of these lectures on our [YouTube channel](https://www.youtube.com/playlist?list=PL5T50pwCrPUoUeTNj_hsHXK8-1z1ZPS2g)**
 * We will update this [GitHub repo](https://github.com/GalvanizeOpenSource/dsi-premium-prep) with links to the recordings
 * To maintain privacy and anonymity, please do not say your name or the names of other students.
     * We will edit those moments out if this occurs, which will delay making the vids available
