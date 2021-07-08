@@ -90,7 +90,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 2]()
+**Recording**: [Lecture 2](https://youtu.be/yMWcL9QDuiI)
 
 ---------------------------------------------------------
 ### Day 3: Thursday July 8 (6pm - 8pm Pacific)
