@@ -113,7 +113,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 3]()
+**Recording**: [Lecture 3](https://youtu.be/7OB26SjF_kI)
 
 
 ---------------------------------------------------------
