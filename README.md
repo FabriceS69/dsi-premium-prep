@@ -133,7 +133,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 4]()
+**Recording**: [Lecture 4](https://youtu.be/_cadTvT9W_k)
 
 ---------------------------------------------------------
 ### Day 5: Monday July 12 (6pm-8pm Pacific)
