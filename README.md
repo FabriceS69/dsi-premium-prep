@@ -154,7 +154,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 5]()
+**Recording**: [Lecture 5](https://youtu.be/Que-C7GoXuw)
 
 ---------------------------------------------------------
 ### [Week 1 Survey](https://docs.google.com/forms/d/e/1FAIpQLSdlfGJUS-xjpcV1ftTjZmcg8qzHrN7FpLSag09iYC6AI7VwEQ/viewform)
