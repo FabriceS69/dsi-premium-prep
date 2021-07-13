@@ -132,7 +132,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 4]()
+**Recording**: [Lecture 4](https://youtu.be/_cadTvT9W_k)
 
 ---------------------------------------------------------
 ### Day 5: Monday July 12 (6pm-8pm Pacific)
@@ -153,7 +153,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 5]()
+**Recording**: [Lecture 5](https://youtu.be/Que-C7GoXuw)
 
 ---------------------------------------------------------
 ### [Week 1 Survey](https://docs.google.com/forms/d/e/1FAIpQLSdlfGJUS-xjpcV1ftTjZmcg8qzHrN7FpLSag09iYC6AI7VwEQ/viewform)
