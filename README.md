@@ -59,11 +59,10 @@
 **HW assignment**:
 * Sign up for [Repl.it](https://repl.it/), this will be an initial coding environment
 * Visit [Google Colabs](https://colab.research.google.com/) and create a notebook
-* Read through the Welcome to [Data Science Prep Section](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-init/00_purpose/00_ds_prep_welcome_overview.md)
-* Read the first 3 units in [Introduction to Python](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/00_Welcome_to_Python/00_course_overview.md)
-    * [Welcome to Python](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/00_Welcome_to_Python/00_course_overview.md)
-    * [About Python Programming](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/01_About_Python_Programming/00_unit_overview.md)
-    * Complete all the challenges in [Python Basics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/02_Python_Basics/00_unit_overview.md)
+* Read the first 3 units in [Introduction to Python](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/00_Welcome_to_Python/00_course_overview.md)
+    * [Welcome to Python](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/00_Welcome_to_Python/00_course_overview.md)
+    * [About Python Programming](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/01_About_Python_Programming/00_unit_overview.md)
+    * Complete all the challenges in [Python Basics](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/02_Python_Basics/00_unit_overview.md)
 * Install [VSCode](https://code.visualstudio.com/)
 * Set up a GitHub account (http://github.com)
     * Share your github username
@@ -105,10 +104,10 @@
 **HW assignment**:
 * Complete the Day 1 Homework first (links above)
 * Complete all Challenges in these Learn Sections:
-    * [Variables](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/03_Variables/00_unit_overview.md)
-    * [Scalar Types](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/04_Scalar_Types/00_unit_overview.md)
-    * [Basic Operators](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/05_Basic_Operators/00_unit_overview.md)
-    * [Control Flow](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/06_Control_Flow/00_unit_overview.md)
+    * [Variables](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/03_Variables/00_unit_overview.md)
+    * [Scalar Types](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/04_Scalar_Types/00_unit_overview.md)
+    * [Basic Operators](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/05_Basic_Operators/00_unit_overview.md)
+    * [Control Flow](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/06_Control_Flow/00_unit_overview.md)
 
 
 
@@ -122,14 +121,14 @@
 **Instructor**: Clark Walker
 
 **Slide Deck**:
-* [Variables](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/03_Variables/00_unit_overview.md)
+* [Variables](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/03_Variables/00_unit_overview.md)
 * [Function Basics](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/04_basic_functions.md)
 * [Intro to Lists](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/05_intro_to_lists.md)
 
 **HW assignment**:
 * Complete these Units on Learn:
-    * [List Basics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/07_List_Basics/00_unit_overview.md)
-    * [Manipulating Lists](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
+    * [List Basics](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/07_List_Basics/00_unit_overview.md)
+    * [Manipulating Lists](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
 
 
 
@@ -143,14 +142,14 @@
 **Slide Deck**:
 * [Function Basics](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/04_basic_functions.md)
 * [Intro to Lists](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/05_intro_to_lists.md)
-* [Manipulating Lists](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
+* [Manipulating Lists](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
 * [For Loops and Accumulators](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/06_for_loops_accumulators.md)
 
 **HW assignment**:
 * Learn Units in Intro Python:
-    * [List Functions and Methods](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/09_List_Functions_and_Methods/00_unit_overview.md)
-    * [List Iteration](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/10_List_Iteration/00_unit_overview.md)
-    * [Accumulators](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/11_Accumulators/00_unit_overview.md)
+    * [List Functions and Methods](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/09_List_Functions_and_Methods/00_unit_overview.md)
+    * [List Iteration](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/10_List_Iteration/00_unit_overview.md)
+    * [Accumulators](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/11_Accumulators/00_unit_overview.md)
 
 
 
@@ -168,12 +167,12 @@
 **Slide Deck**:
 * [Intro to Lists](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/05_intro_to_lists.md)
 * [For Loops and Accumulators](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/06_for_loops_accumulators.md)
-* [Manipulating Lists](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
+* [Manipulating Lists](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
 
 **HW assignment**:
 * Complete these Learn Units:
-    * [While Loops](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/13_While_Loops/00_unit_overview.md)
-    * [Strings](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/14_Strings/00_unit_overview.md)
+    * [While Loops](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/13_While_Loops/00_unit_overview.md)
+    * [Strings](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/14_Strings/00_unit_overview.md)
 
 
 
@@ -187,15 +186,15 @@
 **Slide Deck**:
 * [Intro to Lists](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/05_intro_to_lists.md)
 * [For Loops and Accumulators](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/06_for_loops_accumulators.md)
-* [Manipulating Lists](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
+* [Manipulating Lists](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
 
 **HW assignment**:
 * Work through these Learn Units:
-    * [String Functions and Methods](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/00_unit_overview.md)
-    * [String Formatting](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/05_formatting.md)
-    * [Tuples](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/02_Tuples/00_unit_overview.md)
-    * [Dictionaries](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/04_Dictionaries/00_unit_overview.md)
-    * [Sets](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/03_Sets/00_unit_overview.md)
+    * [String Functions and Methods](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/00_unit_overview.md)
+    * [String Formatting](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/05_formatting.md)
+    * [Tuples](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-intermPython/02_Tuples/00_unit_overview.md)
+    * [Dictionaries](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-intermPython/04_Dictionaries/00_unit_overview.md)
+    * [Sets](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-intermPython/03_Sets/00_unit_overview.md)
 
 
 
@@ -208,19 +207,19 @@
 **Instructor**: Clark Walker
 
 **Slide Deck**:
-* [Manipulating Lists](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
+* [Manipulating Lists](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
 
 
 **HW assignment**:
 * [Python HW](https://colab.research.google.com/drive/1M_sZH5mJpNDIgGias0Q2Lz7rtFfO2HKc)
 * Wrap up these Units on Learn:
-    * [String Functions and Methods](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/00_unit_overview.md)
-    * [String Formatting](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/05_formatting.md)
-    * [Tuples](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/02_Tuples/00_unit_overview.md)
-    * [Dictionaries](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/04_Dictionaries/00_unit_overview.md)
-    * [Sets](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/03_Sets/00_unit_overview.md)
-    * [Basic Statistics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/01_Basic_Stats/00_basic_stats_overview.md)
-    * [Common Plots](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/02_Common_Plots/00_common_plots_overview.md)
+    * [String Functions and Methods](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/00_unit_overview.md)
+    * [String Formatting](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/05_formatting.md)
+    * [Tuples](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-intermPython/02_Tuples/00_unit_overview.md)
+    * [Dictionaries](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-intermPython/04_Dictionaries/00_unit_overview.md)
+    * [Sets](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-intermPython/03_Sets/00_unit_overview.md)
+    * [Basic Statistics](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/01_Basic_Stats/00_basic_stats_overview.md)
+    * [Common Plots](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/02_Common_Plots/00_common_plots_overview.md)
 
 
 **Recording**: [(to be added) Lecture 8]()
@@ -235,8 +234,8 @@
 **HW assignment**:
 * Review today's stats code
 * Complete these Units on Learn:
-    * [Basic Statistics](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/01_Basic_Stats/00_basic_stats_overview.md)
-    * [Common Plots](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/02_Common_Plots/00_common_plots_overview.md)
+    * [Basic Statistics](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/01_Basic_Stats/00_basic_stats_overview.md)
+    * [Common Plots](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/02_Common_Plots/00_common_plots_overview.md)
 
 **Recording**: [(to be added) Lecture 9]()
 
@@ -246,7 +245,7 @@
 **Instructor**: Clark Walker
 
 **Slide Deck**:
-* [Manipulating Lists](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
+* [Manipulating Lists](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
 * [While Loops](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/08_while_loops.md)
 
 **Recording**: [(to be added) Lecture 10]()
@@ -259,8 +258,8 @@
 **Slide Deck**: [Summary Stats: Measures of Spread](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/15_summary_stats_measures_of_spread.md)
 
 **HW assignment**:
-* Complete the [Sets and Set Operations Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/03_Sets/02_set_union.md) on Learn
-* Complete the [Basic Probability Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/00_basic_probability_overview.md) on Learn
+* Complete the [Sets and Set Operations Unit](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/03_Sets/02_set_union.md) on Learn
+* Complete the [Basic Probability Unit](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/04_Basic_Probability/00_basic_probability_overview.md) on Learn
 
 
 **Slide Deck**:
@@ -326,11 +325,11 @@
 
 **HW assignment**: 
 * Wrap up these Units on Learn:
-    * [String Functions and Methods](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/00_unit_overview.md)
-    * [String Formatting](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/05_formatting.md)
-    * [Tuples](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/02_Tuples/00_unit_overview.md)
-    * [Dictionaries](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/04_Dictionaries/00_unit_overview.md)
-    * [Sets](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-intermPython/03_Sets/00_unit_overview.md)
+    * [String Functions and Methods](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/00_unit_overview.md)
+    * [String Formatting](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-intermPython/01_String_Functions_and_Methods/05_formatting.md)
+    * [Tuples](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-intermPython/02_Tuples/00_unit_overview.md)
+    * [Dictionaries](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-intermPython/04_Dictionaries/00_unit_overview.md)
+    * [Sets](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-intermPython/03_Sets/00_unit_overview.md)
 
 
 
@@ -354,8 +353,8 @@
 
 **HW assignment**: 
 * Wrap up homework from last class
-* Complete the [Sets and Set Operations Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/03_Sets/02_set_union.md) on Learn
-* Complete the [Basic Probability Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/00_basic_probability_overview.md) on Learn 
+* Complete the [Sets and Set Operations Unit](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/03_Sets/02_set_union.md) on Learn
+* Complete the [Basic Probability Unit](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/04_Basic_Probability/00_basic_probability_overview.md) on Learn 
 
 
 
@@ -372,7 +371,7 @@
 
 
 **HW assignment**: 
-* Review and work on Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
+* Review and work on Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
 
 
 **Recording**: [(to be added) Lecture 16]()
@@ -391,7 +390,7 @@
 
 
 **HW assignment**:
-* Continue review and completion of Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
+* Continue review and completion of Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
 
 
 **Recording**: [(to be added) Lecture 16]()
@@ -444,12 +443,12 @@
 
 
 **HW assignment**:
-* Begin these Lessons in [Discrete Probability Distributions](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/00_discrete_distr_overview.md)
-    * [Cumulative Distribution Function](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/03_discrete_cdf.md)
-    * [Bernoulli Distribution](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/04_bernoulli.md)
-    * [Binomial Distribution](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/05_binomial.md)
+* Begin these Lessons in [Discrete Probability Distributions](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/00_discrete_distr_overview.md)
+    * [Cumulative Distribution Function](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/03_discrete_cdf.md)
+    * [Bernoulli Distribution](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/04_bernoulli.md)
+    * [Binomial Distribution](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/05_binomial.md)
 * Complete
-    * [Poisson Distribution](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/08_poisson.md)
+    * [Poisson Distribution](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/08_poisson.md)
 * Review the code and materials regarding the Binomial Distribution in the stats folder
 
 
@@ -465,8 +464,8 @@
 * [Bernoulli and Binomial](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/24_bernoulli_and_binomial.md)
 
 **HW assignment**:
-* Complete this Lesson in [Discrete Probability Distributions](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/00_discrete_distr_overview.md)
-    * [Geometric Distribution](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/07_geometric.md)
+* Complete this Lesson in [Discrete Probability Distributions](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/00_discrete_distr_overview.md)
+    * [Geometric Distribution](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/06_Discrete_Prob_Dists/07_geometric.md)
 
 
 **Recording**: [(to be added) Lecture 21]()
@@ -482,7 +481,7 @@
 
 
 **HW assignment**:
-* Complete the [Continuous Probability Distributions Unit](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/07_Continuous_Prob_Dists/00_continuous_distr_overview.md) on Learn
+* Complete the [Continuous Probability Distributions Unit](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/07_Continuous_Prob_Dists/00_continuous_distr_overview.md) on Learn
 
 **Recording**: [(to be added) Lecture 22]()
 
@@ -497,8 +496,8 @@
 
 **HW assignment**
 * Review these units on Learn
-    * [Law of Total Probability](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/03_total_probability.md)
-    * [Bayes Theorem](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/04_Bayes_theorem.md)
+    * [Law of Total Probability](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/03_total_probability.md)
+    * [Bayes Theorem](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/04_Bayes_theorem.md)
 
 
 
@@ -518,8 +517,8 @@
 
 **HW assignment**:
 * Complete these units on Learn
-    * [Law of Total Probability](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/03_total_probability.md)
-    * [Bayes Theorem](https://learn-2.galvanize.com/content_link/github/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/04_Bayes_theorem.md)
+    * [Law of Total Probability](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/03_total_probability.md)
+    * [Bayes Theorem](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/05_Conditional_Probability/04_Bayes_theorem.md)
 
 
 **Recording**: [(to be added) Lecture 24]()
