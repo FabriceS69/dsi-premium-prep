@@ -38,7 +38,7 @@
     * `int, float, bool, str`
 * What does `print(1/100**100000)` give us and why?
     * `0`, because the value is too small to represent with a `float`
-* What does `3 == 3`  evaluate to? 
+* What does `3 == 3`  evaluate to?
     * `True`
 * What does `2 != 2` evaluate to?
     * `False`
@@ -49,20 +49,20 @@
 ---------------------------------------------------------------
 # BREAKOUT (3 minutes)
 * What response will this code produce when:
-    * `x = 9` 
-    * `x = 80` 
-    * `x = 25` 
+    * `x = 9`
+    * `x = 80`
+    * `x = 25`
     * `x = 66`
 
 ```python
 if x % 5 == 0:
-    print(‘High Five!’)
+    print('High Five!')
 elif x % 2 == 0 and x % 5 == 0:
-    print(‘Gimme 10!’)
+    print('Gimme 10!')
 elif x % 2 == 0:
-    print(‘Evens!’)
+    print('Evens!')
 else:
-    print(“I got nothing”)
+    print('I got nothing')
 ```
 
 
@@ -72,11 +72,11 @@ else:
 # BREAKOUT SOLUTION
 
 * What response will this code produce when:
-    * `x = 9` 
+    * `x = 9`
         * `I got nothing`
-    * `x = 80` 
+    * `x = 80`
         * `High Five!`
-    * `x = 25` 
+    * `x = 25`
         * `High Five!`
     * `x = 66`
         * `Evens!`
@@ -125,8 +125,8 @@ def my_func(arg1):
     * Operate similar to variables but they only exist within the function
 
 ```python
-def some_func(im_a_function_parameter): 
-   return bool(im_a_function_parameter) 
+def some_func(im_a_function_parameter):
+   return bool(im_a_function_parameter)
 ```
 
 
@@ -135,7 +135,7 @@ def some_func(im_a_function_parameter):
 ---------------------------------------------------------------
 # Function **Arguments**
 
-* Pass in “arguments” to the parameters when the function is called.
+* Pass in "arguments" to the parameters when the function is called.
 
 ```python
 def add_one_to_num(num):
@@ -214,7 +214,7 @@ print(welcome_message(name_1))
 # BREAKOUT (4 minutes)
 * Write a function that uses the `input()` function inside of it to take a user inputted number and check if that number is equal to `7`. If the number is equal to `7`, return `True`. If not, return `False`
 * Hint: `input()` will return a string by default, so cast to an `int`:
-   * `user_input = int(input(‘type number: ‘))`
+   * `user_input = int(input('type number: '))`
 
 
 
@@ -248,8 +248,8 @@ def check_for_seven():
 <br><br><br><br><br><br><br><br><br>
 
 ---------------------------------------------------------------
-# Variable Scope 
-* Global Variables 
+# Variable Scope
+* Global Variables
     * Variables defined in the main program
 * Local Variables
     * Variables defined within the scope of a function
@@ -274,7 +274,7 @@ def check_for_seven():
 def mod_mult_by_7_power_4(x, y):
     return ((x % y) * 7)**4
 
-print(mod_mult_by_7_power_4(x=20, y=3))  # --> 38416 
+print(mod_mult_by_7_power_4(x=20, y=3))  # --> 38416
 ```
 
 
@@ -313,8 +313,8 @@ print(sq_num(20))
 ---------------------------------------------------------------
 # BREAKOUT (4 minutes)
 * Write a function that takes in a number between 0-999:
-    * Print out whether the number is a single, double, or triple digit number. 
-    * If the number is outside of that range, print a message saying that it is outside of the expected range. 
+    * Print out whether the number is a single, double, or triple digit number.
+    * If the number is outside of that range, print a message saying that it is outside of the expected range.
 
 
 <br><br><br><br><br><br><br><br><br>
@@ -326,7 +326,7 @@ print(sq_num(20))
 def print_num_len(num):
     if num < 0 or num > 999:
         print(f'{num} outside of expected range')
-    elif num / 10 < 1: 
+    elif num / 10 < 1:
         print(f'{num} is single digit')
     elif num / 100 < 1:
         print(f'{num} is double digit')

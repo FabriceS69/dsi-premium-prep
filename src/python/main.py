@@ -16,7 +16,9 @@ def main():
     # import day_02_lib
     # import day_03_lib
     # import day_04_lib
-    import day_05_lib
+    # import day_05_lib
+    # import day_06_lib
+    import day_07_lib
 
 
 if __name__ == "__main__":
