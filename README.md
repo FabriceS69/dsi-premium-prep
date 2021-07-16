@@ -176,7 +176,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 6]()
+**Recording**: [Lecture 6](https://youtu.be/DYbj01WU6Ak)
 
 ---------------------------------------------------------
 ### Day 7: Wednesday July 14 (6pm - 8pm Pacific)
