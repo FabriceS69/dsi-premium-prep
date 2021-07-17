@@ -74,4 +74,4 @@ def mode(lst):
             most_freq = item
     return most_freq
 
-print(mode(interests))
+# print(mode(interests))
