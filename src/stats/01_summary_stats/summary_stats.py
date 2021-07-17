@@ -75,3 +75,18 @@ def mode(lst):
     return most_freq
 
 # print(mode(interests))
+
+
+
+from random import choice
+
+def get_samps(sample_range, num_samples=5):
+    samples = []
+
+    for _ in range(num_samples):
+        samples.append(choice(sample_range))
+    return samples
+
+num_samples = 5
+sample_range = list(range(0, 99+1))
+print(f'mu: {mean(sample_range)}')
