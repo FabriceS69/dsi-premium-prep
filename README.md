@@ -237,7 +237,7 @@
     * [Basic Statistics](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/01_Basic_Stats/00_basic_stats_overview.md)
     * [Common Plots](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/02_Common_Plots/00_common_plots_overview.md)
 
-**Recording**: [(to be added) Lecture 9]()
+**Recording**: [Lecture 9](https://youtu.be/7tet5np7lbU)
 
 ---------------------------------------------------------
 ### Day 10: Monday July 19 (6pm - 8pm Pacific)
