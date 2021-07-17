@@ -24,7 +24,7 @@ print(f'Sample Mean for Urban: {round(mean(urban), 1)}')
 print()
 print(sorted(farmhouse))
 print(f'Sample Mean for Farmhouse: {round(mean(farmhouse), 1)}')
-
+print()
 
 '''
 B. Determine the trimmed mean for each group by trimming the smallest and largest value 
@@ -58,7 +58,7 @@ urban = [6.0, 5.0, 11.0, 33.0, 4.0, 5.0, 80.0, 18.0, 35.0, 17.0, 23.0]
 farmhouse = [4.0, 14.0, 11.0, 9.0, 9.0, 8.0, 4.0, 20.0, 5.0, 8.9, 21.0, 9.2, 3.0, 2.0]
 
 print(sorted(urban))
-print(f'Median for Urban: {round(median(urban, trim=1), 1)}')
+print(f'Median for Urban: {round(median(urban), 1)}')
 print()
 print(sorted(farmhouse))
-print(f'Median for Farmhouse: {round(median(farmhouse, trim=1), 1)}')
+print(f'Median for Farmhouse: {round(median(farmhouse), 1)}')
