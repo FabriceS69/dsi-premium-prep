@@ -65,3 +65,13 @@ farmhouse = [4.0, 14.0, 11.0, 9.0, 9.0, 8.0, 4.0, 20.0, 5.0, 8.9, 21.0, 9.2, 3.0
 
 
 interests = ['cats', 'skateboarding', 'music', 'music', 'kayaking', 'darts', 'darts', 'music', 'frogs']
+
+def mode(lst):
+    most_freq = lst[0]
+
+    for item in lst[1:]:
+        if lst.count(item) > lst.count(most_freq):
+            most_freq = item
+    return most_freq
+
+print(mode(interests))
