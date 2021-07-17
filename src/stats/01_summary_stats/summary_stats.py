@@ -37,3 +37,12 @@ from each group.
 # print(f'Sample Trimmed Mean for Farmhouse: {round(mean(farmhouse, trim=1), 1)}')
 
 
+def median(lst):
+    lst_sorted = sorted(lst)
+
+    if len(lst) % 2 == 1:
+        mid = int(len(lst) / 2)
+        return lst_sorted[mid]
+    else:
+        upper_mid = int(len(lst) / 2)
+        return (lst_sorted[upper_mid] + lst_sorted[upper_mid-1]) / 2
