@@ -90,3 +90,9 @@ def get_samps(sample_range, num_samples=5):
 num_samples = 5
 sample_range = list(range(0, 99+1))
 print(f'mu: {mean(sample_range)}')
+
+means = []
+for _ in range(10):
+    means.append(mean(get_samps(sample_range, num_samples)))
+
+print(f'mean of means: {mean(means)}')
