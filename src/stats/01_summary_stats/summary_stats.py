@@ -4,7 +4,7 @@ def mean(lst, trim=0):
     if trim > 0:
         lst_ = sorted(lst_)[trim:-trim]
 
-    return sum(lst) / len(lst)
+    return sum(lst_) / len(lst_)
 
 a = [1,2,3,4,5, 5000]
 
