@@ -30,8 +30,10 @@ A. Determine the sample mean for each group.
 B. Determine the trimmed mean for each group by trimming the smallest and largest value 
 from each group.
 '''
-print(sorted(urban))
-print(f'Sample Trimmed Mean for Urban: {round(mean(urban, trim=1), 1)}')
-print()
-print(sorted(farmhouse))
-print(f'Sample Trimmed Mean for Farmhouse: {round(mean(farmhouse, trim=1), 1)}')
+# print(sorted(urban))
+# print(f'Sample Trimmed Mean for Urban: {round(mean(urban, trim=1), 1)}')
+# print()
+# print(sorted(farmhouse))
+# print(f'Sample Trimmed Mean for Farmhouse: {round(mean(farmhouse, trim=1), 1)}')
+
+
