@@ -30,11 +30,11 @@ A. Determine the sample mean for each group.
 B. Determine the trimmed mean for each group by trimming the smallest and largest value 
 from each group.
 '''
-print(sorted(urban))
-print(f'Sample Trimmed Mean for Urban: {round(mean(urban, trim=1), 1)}')
-print()
-print(sorted(farmhouse))
-print(f'Sample Trimmed Mean for Farmhouse: {round(mean(farmhouse, trim=1), 1)}')
+# print(sorted(urban))
+# print(f'Sample Trimmed Mean for Urban: {round(mean(urban, trim=1), 1)}')
+# print()
+# print(sorted(farmhouse))
+# print(f'Sample Trimmed Mean for Farmhouse: {round(mean(farmhouse, trim=1), 1)}')
 
 
 def median(lst):
@@ -57,8 +57,11 @@ even_list = [15, 14, 10, 8, 12, 8, 16, 13]
 urban = [6.0, 5.0, 11.0, 33.0, 4.0, 5.0, 80.0, 18.0, 35.0, 17.0, 23.0]
 farmhouse = [4.0, 14.0, 11.0, 9.0, 9.0, 8.0, 4.0, 20.0, 5.0, 8.9, 21.0, 9.2, 3.0, 2.0]
 
-print(sorted(urban))
-print(f'Median for Urban: {round(median(urban), 1)}')
-print()
-print(sorted(farmhouse))
-print(f'Median for Farmhouse: {round(median(farmhouse), 1)}')
+# print(sorted(urban))
+# print(f'Median for Urban: {round(median(urban), 1)}')
+# print()
+# print(sorted(farmhouse))
+# print(f'Median for Farmhouse: {round(median(farmhouse), 1)}')
+
+
+interests = ['cats', 'skateboarding', 'music', 'music', 'kayaking', 'darts', 'darts', 'music', 'frogs']
