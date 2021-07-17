@@ -19,22 +19,22 @@ farmhouse = [4.0, 14.0, 11.0, 9.0, 9.0, 8.0, 4.0, 20.0, 5.0, 8.9, 21.0, 9.2, 3.0
 '''
 A. Determine the sample mean for each group.
 '''
-print(sorted(urban))
-print(f'Sample Mean for Urban: {round(mean(urban), 1)}')
-print()
-print(sorted(farmhouse))
-print(f'Sample Mean for Farmhouse: {round(mean(farmhouse), 1)}')
-print()
+# print(sorted(urban))
+# print(f'Sample Mean for Urban: {round(mean(urban), 1)}')
+# print()
+# print(sorted(farmhouse))
+# print(f'Sample Mean for Farmhouse: {round(mean(farmhouse), 1)}')
+# print()
 
 '''
 B. Determine the trimmed mean for each group by trimming the smallest and largest value 
 from each group.
 '''
-# print(sorted(urban))
-# print(f'Sample Trimmed Mean for Urban: {round(mean(urban, trim=1), 1)}')
-# print()
-# print(sorted(farmhouse))
-# print(f'Sample Trimmed Mean for Farmhouse: {round(mean(farmhouse, trim=1), 1)}')
+print(sorted(urban))
+print(f'Sample Trimmed Mean for Urban: {round(mean(urban, trim=1), 1)}')
+print()
+print(sorted(farmhouse))
+print(f'Sample Trimmed Mean for Farmhouse: {round(mean(farmhouse, trim=1), 1)}')
 
 
 def median(lst):
