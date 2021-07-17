@@ -92,7 +92,7 @@ sample_range = list(range(0, 99+1))
 print(f'mu: {mean(sample_range)}')
 print()
 means = []
-for _ in range(100):
+for _ in range(100000):
     means.append(mean(get_samps(sample_range, num_samples)))
 
 print(f'list of x_bar: {means}')
