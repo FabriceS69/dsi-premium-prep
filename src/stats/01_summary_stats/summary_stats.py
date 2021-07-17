@@ -19,11 +19,11 @@ farmhouse = [4.0, 14.0, 11.0, 9.0, 9.0, 8.0, 4.0, 20.0, 5.0, 8.9, 21.0, 9.2, 3.0
 '''
 A. Determine the sample mean for each group.
 '''
-# print(sorted(urban))
-# print(f'Sample Mean for Urban: {round(mean(urban), 1)}')
-# print()
-# print(sorted(farmhouse))
-# print(f'Sample Mean for Farmhouse: {round(mean(farmhouse), 1)}')
+print(sorted(urban))
+print(f'Sample Mean for Urban: {round(mean(urban), 1)}')
+print()
+print(sorted(farmhouse))
+print(f'Sample Mean for Farmhouse: {round(mean(farmhouse), 1)}')
 
 
 '''
@@ -50,5 +50,15 @@ def median(lst):
 odd_list = [13, 18, 13, 14, 13, 16, 14, 21, 13]
 even_list = [15, 14, 10, 8, 12, 8, 16, 13]
 
-print(median(odd_list))
-print(median(even_list))
+# print(median(odd_list))
+# print(median(even_list))
+
+
+urban = [6.0, 5.0, 11.0, 33.0, 4.0, 5.0, 80.0, 18.0, 35.0, 17.0, 23.0]
+farmhouse = [4.0, 14.0, 11.0, 9.0, 9.0, 8.0, 4.0, 20.0, 5.0, 8.9, 21.0, 9.2, 3.0, 2.0]
+
+print(sorted(urban))
+print(f'Median for Urban: {round(median(urban, trim=1), 1)}')
+print()
+print(sorted(farmhouse))
+print(f'Median for Farmhouse: {round(median(farmhouse, trim=1), 1)}')
