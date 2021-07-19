@@ -344,6 +344,21 @@
 ---------------------------------------------------------
 ### Day 15: Monday July 26 (6pm - 8pm Pacific)
 
+**Instructor**: Tovio Roberts
+
+**Slide Deck**:
+* [Intro to Set Theory](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/17_intro_to_set_theory.md)
+
+
+**HW assignment**: 
+* Complete the [Sets and Set Operations Unit](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/03_Sets/02_set_union.md) on Learn
+* Complete the [Basic Probability Unit](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/04_Basic_Probability/00_basic_probability_overview.md) on Learn 
+
+**Recording**: [(to be added) Lecture 15]()
+
+---------------------------------------------------------
+### Day 16: Tuesday July 27 (6pm - 8pm Pacific)
+
 
 **Instructor**: Clark Walker
 
@@ -352,26 +367,8 @@
 
 
 **HW assignment**: 
-* Wrap up homework from last class
-* Complete the [Sets and Set Operations Unit](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/03_Sets/02_set_union.md) on Learn
-* Complete the [Basic Probability Unit](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/04_Basic_Probability/00_basic_probability_overview.md) on Learn 
-
-
-
-
-**Recording**: [(to be added) Lecture 15]()
-
----------------------------------------------------------
-### Day 16: Tuesday July 27 (6pm - 8pm Pacific)
-
-**Instructor**: Tovio Roberts
-
-**Slide Deck**:
-* [Intro to Set Theory](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/17_intro_to_set_theory.md)
-
-
-**HW assignment**: 
 * Review and work on Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
+
 
 
 **Recording**: [(to be added) Lecture 16]()
