@@ -14,7 +14,7 @@
 ---------------------------------------------------------------
 # BREAKOUT (3 minutes)
 ```python
-x = [1, 2, 3, 4, 5, 6, 7, 8, 9, [“hello”, 85, True], 0]
+x = [1, 2, 3, 4, 5, 6, 7, 8, 9, ["hello", 85, True], 0]
 ```
 
 * How would you index to get the value `8`
@@ -29,7 +29,7 @@ x = [1, 2, 3, 4, 5, 6, 7, 8, 9, [“hello”, 85, True], 0]
 ---------------------------------------------------------------
 # BREAKOUT SOLUTION
 ```python
-x = [1, 2, 3, 4, 5, 6, 7, 8, 9, [“hello”, 85, True], 0]
+x = [1, 2, 3, 4, 5, 6, 7, 8, 9, ["hello", 85, True], 0]
 ```
 
 * How would you index to get the value `8`
@@ -49,14 +49,14 @@ x = [1, 2, 3, 4, 5, 6, 7, 8, 9, [“hello”, 85, True], 0]
 ---------------------------------------------------------------
 # `for` loops
 * For loops iterate through each element of a `list`
-    * Syntax: 
+    * Syntax:
 
 ```python    
 for element in list:
 	print(element)
 ```
 
-* Another way to use a `for` loop is to iterate through `range(len(list))` in order to access all the indices, rather than the elements themselves. 
+* Another way to use a `for` loop is to iterate through `range(len(list))` in order to access all the indices, rather than the elements themselves.
 
 
 <br><br><br><br><br><br><br><br><br>
@@ -126,7 +126,7 @@ def get_common_elements(lst1, lst2):
         if item in lst2:
             if item not in output:
                 output.append(item)
-    
+
     return sorted(output)
 
 lst_a = [4,9,6,5,7,8,6,2]
@@ -140,12 +140,12 @@ print(get_common_elements(lst_a, lst_b))
 
 ---------------------------------------------------------------
 # Accumulators (are important!)
-* An accumulator can be thought of as a running total that is held in a variable	
-* Accumulator Pattern: 
+* An accumulator can be thought of as a running total that is held in a variable
+* Accumulator Pattern:
     * Initialize the accumulator variable
     * Repeat:
         * Modify the accumulator variable
-    * When the above loop terminates, the accumulator will have the correct value. 
+    * When the above loop terminates, the accumulator will have the correct value.
 
 
 <br><br><br><br><br><br><br><br><br>
@@ -160,15 +160,15 @@ for num in nums:
 	summ += num
 ```
 
-* We can also calculate the sum when our list is comprised of floats. 
-* The final accumulator will be a float. 
+* We can also calculate the sum when our list is comprised of floats.
+* The final accumulator will be a float.
 
 
 <br><br><br><br><br><br><br><br><br>
 
 ---------------------------------------------------------------
-# Boolean Flags 
-* Occasionally, you will need to use an accumulator that is set to a boolean value. 
+# Boolean Flags
+* Occasionally, you will need to use an accumulator that is set to a boolean value.
 * If some condition is met in the for loop, the boolean assigned to the accumulator will change to the opposite value. Otherwise, it will stay the same.
 * These boolean flags can also be used as exit conditions in a loop.
 * Syntax:   
@@ -203,7 +203,7 @@ def is_prime(num):
     for divisor in range(2, num):
         if num % divisor == 0:
         prime = False
-    
+
     return prime
 
 for i in range(2, 100):
@@ -216,8 +216,8 @@ for i in range(2, 100):
 ---------------------------------------------------------------
 # `list` Accumulators
 * Sometimes, you will need an accumulator that is an empty list.
-* As the for loop gets evaluated, the accumulator will be appended with new values. 
-* Syntax: 
+* As the for loop gets evaluated, the accumulator will be appended with new values.
+* Syntax:
 
 ```python
 accumulator = [ ]
@@ -232,8 +232,8 @@ for element in some_list:
 ---------------------------------------------------------------
 # Using loops as filters
 * We can filter list elements that meet a condition using accumulators.
-* As the for loop is evaluated, values that meet the condition will be appended to a new empty list. 
-* Syntax: 
+* As the for loop is evaluated, values that meet the condition will be appended to a new empty list.
+* Syntax:
 
 ```python
 some_list = [stuff, more stuff]
@@ -327,7 +327,7 @@ $$
 0! = 1
 $$
 
-* Think about edge cases 
+* Think about edge cases
 
 
 
