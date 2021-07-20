@@ -248,7 +248,7 @@
 * [Manipulating Lists](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introPython/08_Manipulating_Lists/00_unit_overview.md)
 * [While Loops](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/08_while_loops.md)
 
-**Recording**: [(to be added) Lecture 10]()
+**Recording**: [Lecture 10](https://youtu.be/ErjDXeKna0k)
 
 ---------------------------------------------------------
 ### Day 11: Tuesday July 20 (6pm - 8pm Pacific)
