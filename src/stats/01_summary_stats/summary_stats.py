@@ -89,11 +89,17 @@ def get_samps(sample_range, num_samples=5):
 
 num_samples = 100
 sample_range = list(range(0, 99+1))
-print(f'mu: {mean(sample_range)}')
-print()
-means = []
-for _ in range(100000):
-    means.append(mean(get_samps(sample_range, num_samples)))
+# print(f'mu: {mean(sample_range)}')
+# print()
+# means = []
+# for _ in range(100000):
+#     means.append(mean(get_samps(sample_range, num_samples)))
 
-print(f'list of x_bar: {means}')
-print(f'mean of means: {mean(means)}')
+# print(f'list of x_bar: {means}')
+# print(f'mean of means: {mean(means)}')
+
+
+
+
+
+
