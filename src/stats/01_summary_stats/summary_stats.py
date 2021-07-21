@@ -101,5 +101,6 @@ sample_range = list(range(0, 99+1))
 
 
 
-
+def five_number_summary(lst):
+    
 
