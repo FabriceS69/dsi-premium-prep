@@ -101,31 +101,8 @@ sample_range = list(range(0, 99+1))
 
 
 
-def five_number_summary(lst):
-    min_ = min(lst)
-    max_ = max(lst)
-    med = median(lst)    
-
-    sorted_list = sorted(lst)
-    print(sorted_list)
-
-    if len(lst) % 2 == 1:
-        lower_half = sorted_list[0: int(len(lst) / 2)+1]
-        # print(lower_half)
-
-        upper_half = sorted_list[int(len(lst) / 2):]
-        # print(upper_half)
-    else:
-        lower_half = sorted_list[0: int(len(lst) / 2)]
-        # print(lower_half)
-
-        upper_half = sorted_list[int(len(lst) / 2):]
-        # print(upper_half)
-
-    q1 = median(lower_half)
-    q3 = median(upper_half)
-
-    return min_, q1, med, q3, max_
+def five_number_summary(lst): 
+    return min(lst), median(sorted(lst)[0: median(lst) + (len(lst) % 2 == 1)]), median(lst), median(sorted(lst)[median(lst):]), max(lst)
 
 lst = list(range(0,51,5))
 print(five_number_summary(lst))
