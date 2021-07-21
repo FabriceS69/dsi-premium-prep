@@ -125,5 +125,7 @@ def five_number_summary(lst):
     q1 = median(lower_half)
     q3 = median(upper_half)
 
+    return min_, q1, med, q3, max_
+
 lst = list(range(0,50,5))
 print(five_number_summary(lst))
