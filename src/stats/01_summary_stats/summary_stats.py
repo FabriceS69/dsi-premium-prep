@@ -105,4 +105,6 @@ def five_number_summary(lst):
     return min(lst), median(sorted(lst)[0: median(lst) + (len(lst) % 2 == 1)]), median(lst), median(sorted(lst)[median(lst):]), max(lst)
 
 lst = list(range(0,51,5))
-print(five_number_summary(lst))
+# print(five_number_summary(lst))
+
+
