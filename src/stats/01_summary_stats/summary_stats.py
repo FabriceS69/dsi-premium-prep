@@ -163,4 +163,7 @@ def detect_outliers(lst, outlier_coef=1.5):
             outliers.append(num)
     return outliers
 
+test_outliers = list(range(0,100))
+test_outliers.append(1_000_000)
 
+print(detect_outliers(test_outliers, outlier_coef=1.5))
