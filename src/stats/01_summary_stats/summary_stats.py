@@ -127,5 +127,5 @@ def five_number_summary(lst):
 
     return min_, q1, med, q3, max_
 
-lst = list(range(0,50,5))
+lst = list(range(0,51,5))
 print(five_number_summary(lst))
