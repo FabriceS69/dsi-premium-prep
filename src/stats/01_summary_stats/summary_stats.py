@@ -125,3 +125,13 @@ def five_number_summary(lst):
 # print(five_number_summary(lst))
 
 
+a = [15,2,9,5,6,7,27,12,18,19,1]
+b = [6,1,4,51,7,16,10,14,46,22,24,56,48,54]
+
+print('a:')
+print(mean(a))
+print(five_number_summary(a))
+print()
+print('b:')
+print(mean(b))
+print(five_number_summary(b))
