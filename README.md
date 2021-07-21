@@ -270,7 +270,7 @@
 **HW assignment**: N/A
 
 
-**Recording**: [(to be added) Lecture 11]()
+**Recording**: [Lecture 11](https://youtu.be/dpZhbRPOZGg)
 
 ---------------------------------------------------------
 
