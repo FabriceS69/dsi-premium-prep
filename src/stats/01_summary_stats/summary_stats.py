@@ -102,5 +102,16 @@ sample_range = list(range(0, 99+1))
 
 
 def five_number_summary(lst):
-    
+    min_ = min(lst)
+    max_ = max(lst)
+    med = median(lst)    
 
+    sorted_list = sorted(lst)
+    print(sorted_list)
+
+    if len(lst) % 2 == 1:
+        lower_half = sorted_list[0: int(len(lst) / 2)+1]
+        print(lower_half)
+
+lst = list(range(0,51,5))
+print(five_number_summary(lst))
