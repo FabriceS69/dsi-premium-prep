@@ -172,11 +172,10 @@ test_outliers.append(1_000_000)
 
 def remove_outliers(lst, outlier_coef=1.5):
     outliers = detect_outliers(lst, outlier_coef)
-    output = []
+    output = lst.copy()
 
-    for num in lst:
-        if num not in outliers:
-            output.append(num)
+    for num in outliers:
+        output.remove(num)
     return output
 
 a =  [590, 615, 575, 608, 350, 1285, 408, 540, 555, 679]
