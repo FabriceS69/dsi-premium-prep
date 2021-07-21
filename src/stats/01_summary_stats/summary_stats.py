@@ -193,5 +193,12 @@ def variance(lst, sample=True):
 
     return total / (len(lst) - sample)
 
-print(variance(list(range(0, 100, 7))))
-print(variance(list(range(0, 100, 2))))
+# print(variance(list(range(0, 100, 7))))
+# print(variance(list(range(0, 100, 2))))
+from math import sqrt
+
+def stdev(lst, sample=True):
+    return sqrt(variance(lst, sample))
+
+print(stdev(list(range(0, 100, 7))))
+print(stdev(list(range(0, 100, 2))))
