@@ -207,5 +207,10 @@ from math import sqrt
 def stdev(lst, sample=True):
     return sqrt(variance(lst, sample))
 
+print(list(range(0, 100, 7)))
+print(stdev(list(range(0, 100, 7)), sample=False))
 print(stdev(list(range(0, 100, 7))))
+print()
+print(list(range(0, 100, 2)))
+print(stdev(list(range(0, 100, 2)), sample=False))
 print(stdev(list(range(0, 100, 2))))
