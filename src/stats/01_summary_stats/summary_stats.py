@@ -121,7 +121,7 @@ def five_number_summary(lst):
     q3 = median(upper_half)
     return min_, q1, med, q3, max_
 
-lst = list(range(0,51,5))
-print(five_number_summary(lst))
+# lst = list(range(0,51,5))
+# print(five_number_summary(lst))
 
 
