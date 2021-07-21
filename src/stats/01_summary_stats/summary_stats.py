@@ -122,5 +122,5 @@ def five_number_summary(lst):
         upper_half = sorted_list[int(len(lst) / 2):]
         print(upper_half)
 
-lst = list(range(0,51,5))
+lst = list(range(0,50,5))
 print(five_number_summary(lst))
