@@ -111,16 +111,19 @@ def five_number_summary(lst):
 
     if len(lst) % 2 == 1:
         lower_half = sorted_list[0: int(len(lst) / 2)+1]
-        print(lower_half)
+        # print(lower_half)
 
         upper_half = sorted_list[int(len(lst) / 2):]
-        print(upper_half)
+        # print(upper_half)
     else:
         lower_half = sorted_list[0: int(len(lst) / 2)]
-        print(lower_half)
+        # print(lower_half)
 
         upper_half = sorted_list[int(len(lst) / 2):]
-        print(upper_half)
+        # print(upper_half)
+
+    q1 = median(lower_half)
+    q3 = median(upper_half)
 
 lst = list(range(0,50,5))
 print(five_number_summary(lst))
