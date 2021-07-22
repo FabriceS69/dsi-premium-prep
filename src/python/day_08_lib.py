@@ -1,4 +1,4 @@
-# """ un/comment to de/activate ###########################
+""" un/comment to de/activate ###########################
 
 ## overview
 # data types
@@ -220,7 +220,7 @@ for i in range(42):
 print(counter)
 
 ####################################################### """
-# """ un/comment to de/activate ###########################
+""" un/comment to de/activate ###########################
 
 lst = [4, 5, 6, 4, 6, 2, 7]
 for i in range( 10 ):

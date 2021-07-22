@@ -315,17 +315,17 @@ def function_name():
 # BREAKOUT (3 minutes)
 * Write a function to calculate the result of n!
 
-$$
+<!-- $$ -->
 4! = 4 * 3 * 2 * 1
-$$
+<!-- $$ -->
 
-$$
-3! = 3*2*1
-$$
+<!-- $$ -->
+3! = 3 * 2 * 1
+<!-- $$ -->
 
-$$
+<!-- $$ -->
 0! = 1
-$$
+<!-- $$ -->
 
 * Think about edge cases
 
