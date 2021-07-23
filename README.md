@@ -310,7 +310,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 13]()
+**Recording**: [Lecture 13](https://youtu.be/3P8b5P3XcYM)
 
 ---------------------------------------------------------
 ### Day 14: Saturday July 24 (11am-1pm Pacific)
