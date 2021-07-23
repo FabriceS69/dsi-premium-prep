@@ -286,7 +286,7 @@
 **HW assignment**: N/A
 
 
-**Recording**: [(to be added) Lecture 12]()
+**Recording**: [Lecture 12](https://youtu.be/3P8b5P3XcYM)
 
 
 ---------------------------------------------------------
