@@ -333,7 +333,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 14]()
+**Recording**: [Lecture 14](https://youtu.be/kW_eKDuoLc4)
 
 
 ---------------------------------------------------------
