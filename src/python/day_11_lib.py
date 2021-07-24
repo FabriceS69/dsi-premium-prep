@@ -152,7 +152,7 @@ for i in range(2000):
 print( sum(prime_windows_lst) / len(prime_windows_lst) )
 
 ####################################################### """
-# """ un/comment to de/activate ###########################
+""" un/comment to de/activate ###########################
 
 def get_divisors(n):
     lst = []
