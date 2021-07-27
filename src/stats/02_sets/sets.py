@@ -67,3 +67,20 @@ def intersection(lst_1, lst_2):
 # print(intersection(a, b))
 
 
+def intersection_mult_sets(*mult_sets):
+    set_intersect = []
+
+    if len(mult_sets) > 1 and len(mult_sets[0]) > 0:
+        for element in mult_sets:
+            is_member = True
+
+            for set_ in mult_sets[1:]:
+                if element not in set_:
+                    is_member = False
+                    break
+
+            if is_member:
+                set_intersect.append(element)
+    return set_intersect
+
+print(intersection_mult_sets(a, b, c))
