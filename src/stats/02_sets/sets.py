@@ -71,7 +71,7 @@ def intersection_mult_sets(*mult_sets):
     set_intersect = []
 
     if len(mult_sets) > 1 and len(mult_sets[0]) > 0:
-        for element in mult_sets:
+        for element in mult_sets[0]:
             is_member = True
 
             for set_ in mult_sets[1:]:
