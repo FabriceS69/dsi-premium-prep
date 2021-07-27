@@ -64,4 +64,6 @@ def intersection(lst_1, lst_2):
 
     return set_intersect
 
-print(intersection(a, b))
+# print(intersection(a, b))
+
+
