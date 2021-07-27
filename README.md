@@ -354,7 +354,7 @@
 * Complete the [Sets and Set Operations Unit](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/03_Sets/02_set_union.md) on Learn
 * Complete the [Basic Probability Unit](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/04_Basic_Probability/00_basic_probability_overview.md) on Learn 
 
-**Recording**: [(to be added) Lecture 15]()
+**Recording**: [Lecture 15](https://youtu.be/ls7qVSZmr3A)
 
 ---------------------------------------------------------
 ### Day 16: Tuesday July 27 (6pm - 8pm Pacific)
