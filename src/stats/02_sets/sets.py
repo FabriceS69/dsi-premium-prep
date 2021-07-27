@@ -83,4 +83,6 @@ def intersection_mult_sets(*mult_sets):
                 set_intersect.append(element)
     return set_intersect
 
-print(intersection_mult_sets(a, b, c))
+# print(intersection_mult_sets(a, b, c))
+
+
