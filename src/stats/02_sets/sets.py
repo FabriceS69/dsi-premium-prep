@@ -54,3 +54,14 @@ def union_mult_sets(*mult_sets):
 
 # print(union_mult_sets(a, b, c))
 
+
+def intersection(lst_1, lst_2):
+    set_intersect = []
+     
+    for element in lst_1:
+        if element in lst_2:
+            set_intersect.append(element)
+
+    return set_intersect
+
+print(intersection(a, b))
