@@ -86,3 +86,12 @@ def intersection_mult_sets(*mult_sets):
 # print(intersection_mult_sets(a, b, c))
 
 
+def difference(lst_1, lst_2):
+    set_difference = []
+
+    for element in lst_1:
+        if element not in lst_2:
+            set_difference.append(element)
+    return set_difference
+
+print(difference(a, b))
