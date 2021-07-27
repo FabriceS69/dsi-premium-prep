@@ -6,5 +6,5 @@ set2 = {2,3,4}
 
 a, b, c = True, False, True
 
-print((a or b) == (b or a))
-print((a and b) == (b and a))
+# print((a or b) == (b or a))
+# print((a and b) == (b and a))
