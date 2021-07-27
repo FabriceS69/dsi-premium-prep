@@ -94,4 +94,6 @@ def difference(lst_1, lst_2):
             set_difference.append(element)
     return set_difference
 
-print(difference(a, b))
+# print(difference(a, b))
+
+
