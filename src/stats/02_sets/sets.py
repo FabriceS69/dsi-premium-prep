@@ -16,3 +16,19 @@ def dedupe_in_order(lst):
 # print(dedupe_in_order(lst))
 
 
+
+
+
+a = ['rabbit', 'cat', 'dog', 'leech', 'kangaroo', 'squirrel']
+b = ['eagle', 'shark', 'cat', 'leech', 'caracol']
+c = ['rabbit', 'eagle', 'cat', 'platypus', 'nutria', 'manatee']
+
+def union(lst_1, lst_2):
+    set_union = lst_1.copy()
+    
+    for element in lst_2:
+        if element not in set_union:
+            set_union.append(element)
+    return set_union
+
+print(union(a, b))
