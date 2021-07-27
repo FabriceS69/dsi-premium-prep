@@ -20,4 +20,6 @@ set3 = {1,4,6}
 
 a, b, c = True, False, True
 
-print(((a or b) or c) == (a or (b or c)))
+# print(((a or b) or c) == (a or (b or c)))
+# print(((a and b) and c) == (a and (b and c)))
+
