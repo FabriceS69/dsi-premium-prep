@@ -348,7 +348,7 @@
 
 **Slide Deck**:
 * [Intro to Set Theory](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/17_intro_to_set_theory.md)
-
+* [Axioms of Probability](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/19_axioms_of_probability.md)
 
 **HW assignment**: 
 * Complete the [Sets and Set Operations Unit](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/03_Sets/02_set_union.md) on Learn
@@ -382,7 +382,6 @@
 **Instructor**: Tovio Roberts
 
 **Slide Deck**:
-* [Axioms of Probability](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/19_axioms_of_probability.md)
 * [Computing Basic Probability](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/20_computing_basic_probability.md)
 
 
