@@ -31,4 +31,5 @@ def union(lst_1, lst_2):
             set_union.append(element)
     return set_union
 
-print(union(a, b))
+# print(union(a, b))
+
