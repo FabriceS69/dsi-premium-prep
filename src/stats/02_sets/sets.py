@@ -22,7 +22,7 @@ def star_args(*args):
         print(item)
     return None
 
-star_args('cat', 72.4, [[1,2,3], 'bird'], False)
+# star_args('cat', 72.4, [[1,2,3], 'bird'], False)
 
 
 
@@ -40,3 +40,14 @@ def union(lst_1, lst_2):
 
 # print(union(a, b))
 
+
+
+def union_mult_sets(*mult_sets):
+    set_union = []
+
+    for lst in mult_sets:
+        for item in lst:
+            if item not in set_union:
+                set_union.append(item)
+
+    return set_union
