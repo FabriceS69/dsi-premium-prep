@@ -16,6 +16,13 @@ def dedupe_in_order(lst):
 # print(dedupe_in_order(lst))
 
 
+def star_args(*args):
+    print(type(args))
+    for item in args:
+        print(item)
+    return None
+
+star_args('cat', 72.4, [[1,2,3], 'bird'], False)
 
 
 
