@@ -97,4 +97,14 @@ def difference(lst_1, lst_2):
 # print(difference(a, b))
 # print(difference(a, intersection(a, b)))
 
+a = ['rabbit', 'cat', 'dog', 'leech', 'kangaroo', 'squirrel']
+b = ['eagle', 'shark', 'cat', 'leech', 'caracol']
+c = ['rabbit', 'eagle', 'cat', 'platypus', 'nutria', 'manatee']
 
+sample_space = union_mult_sets(a, b, c, ['albatross', 'vole'])
+
+
+def complement(sample_space, lst):
+    return difference(sample_space, lst)
+
+print(complement(sample_space, a))
