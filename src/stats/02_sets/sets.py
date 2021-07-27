@@ -1,6 +1,6 @@
 ''' Deduping '''
 lst = ['hockey', 'basketball', 'hockey', 'sportsball', 'deathball', 'skiing', 'javelin', 'javelin']
-lst = list(set(lst)) # ['sportsball', 'hockey', 'deathball', 'basketball']
+# lst = list(set(lst)) # ['sportsball', 'hockey', 'deathball', 'basketball']
 
 # print(lst)
 
