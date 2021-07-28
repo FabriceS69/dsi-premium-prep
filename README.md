@@ -371,7 +371,7 @@
 
 
 
-**Recording**: [(to be added) Lecture 16]()
+**Recording**: [Lecture 16](https://youtu.be/07uLfn-HOys)
 
 
 
