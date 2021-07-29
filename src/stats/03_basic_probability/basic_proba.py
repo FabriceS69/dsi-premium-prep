@@ -40,20 +40,35 @@ def series_of_flips(n):
 
 num_trials = 1000
 
-proba_estimations = []
+# proba_estimations = []
 
-for _ in range(1000):
-    eight_heads = 0
+# for _ in range(1000):
+#     eight_heads = 0
 
-    for _ in range(num_trials):
-        res = series_of_flips(10)
-        if res.count('H') == 8:
-            eight_heads += 1
-
-
-    proba_estimations.append(eight_heads / num_trials)
+#     for _ in range(num_trials):
+#         res = series_of_flips(10)
+#         if res.count('H') == 8:
+#             eight_heads += 1
 
 
-print(proba_estimations)
-print(sum(proba_estimations) / 1000)
-print(min(proba_estimations), ' ', max(proba_estimations))
+#     proba_estimations.append(eight_heads / num_trials)
+
+
+# print(proba_estimations)
+# print(sum(proba_estimations) / 1000)
+# print(min(proba_estimations), ' ', max(proba_estimations))
+
+
+
+def four_flip_sample_space():
+    four_flips = []
+    
+    for flip1 in ['T', 'H']:
+        for flip2 in ['T', 'H']:
+            for flip3 in ['T', 'H']:
+                for flip4 in ['T', 'H']:
+                    four_flips.append([flip1, flip2, flip3, flip4])
+    return four_flips
+
+for outcome in four_flip_sample_space():
+    print(outcome)
