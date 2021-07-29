@@ -70,5 +70,15 @@ def four_flip_sample_space():
                     four_flips.append([flip1, flip2, flip3, flip4])
     return four_flips
 
-for outcome in four_flip_sample_space():
-    print(outcome)
+# for outcome in four_flip_sample_space():
+#     print(outcome)
+
+outcomes = four_flip_sample_space()
+
+three_heads = []
+
+for outcome in outcomes:
+    if outcome.count('H') == 3:
+        three_heads.append(outcome)
+
+print(len(three_heads) / len(outcomes))
