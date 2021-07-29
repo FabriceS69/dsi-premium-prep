@@ -36,4 +36,14 @@ def series_of_flips(n):
         flips.append(coin_flip())
     return flips
 
-print(series_of_flips(10))
+# print(series_of_flips(10))
+
+num_trials = 1000
+eight_heads = 0
+
+for _ in range(num_trials):
+    res = series_of_flips(10)
+    if res.count('H') == 8:
+        eight_heads += 1
+
+print(eight_heads / num_trials)
