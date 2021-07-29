@@ -383,6 +383,7 @@
 
 **Slide Deck**:
 * [Computing Basic Probability](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/20_computing_basic_probability.md)
+* [Statistical Counting](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/21_statistical_counting.md)
 
 
 **HW assignment**:
