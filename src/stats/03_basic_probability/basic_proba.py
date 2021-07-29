@@ -46,4 +46,6 @@ for _ in range(num_trials):
     if res.count('H') == 8:
         eight_heads += 1
 
-print(eight_heads / num_trials)
+# print(eight_heads / num_trials)
+
+
