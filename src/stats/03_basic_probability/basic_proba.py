@@ -77,8 +77,12 @@ outcomes = four_flip_sample_space()
 
 three_heads = []
 
-for outcome in outcomes:
-    if outcome.count('H') == 3:
-        three_heads.append(outcome)
+# for outcome in outcomes:
+#     if outcome.count('H') == 3:
+#         three_heads.append(outcome)
 
-print(len(three_heads) / len(outcomes))
+# print(len(three_heads) / len(outcomes))
+
+
+
+
