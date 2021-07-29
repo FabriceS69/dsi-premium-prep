@@ -92,4 +92,5 @@ def factorial(num):
         prod *= n
     return prod
 
-print(1 / factorial(10))
+# print(1 / factorial(10))
+
