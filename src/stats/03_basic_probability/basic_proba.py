@@ -11,5 +11,5 @@ for pet1 in pets:
 # for pet_outcome in outcomes:
 #     print(pet_outcome)
 
-print(len(outcomes))
-print(4**4)
+# print(len(outcomes))
+# print(4**4)
