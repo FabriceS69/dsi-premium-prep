@@ -53,4 +53,4 @@ for _ in range(1000):
 
 
 print(proba_estimations)
-print(proba_estimations / 1000)
+print(sum(proba_estimations) / 1000)
