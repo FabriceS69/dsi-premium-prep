@@ -389,7 +389,7 @@
 * Continue review and completion of Learn materials on [Factorial](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/04_Basic_Probability/03_cartesian_factorial.md), [Permutations](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/04_Basic_Probability/04_permutations.md) and [Combinations](https://learn-2.galvanize.com/content_link/github.com/gSchool/dsi-prep-module-introStats/04_Basic_Probability/05_combinations.md)
 
 
-**Recording**: [(to be added) Lecture 16]()
+**Recording**: [Lecture 16](https://youtu.be/PectWLRJr40)
 
 
 
