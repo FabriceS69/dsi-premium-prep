@@ -94,3 +94,16 @@ def factorial(num):
 
 # print(1 / factorial(10))
 
+
+
+
+def permutations(n, k):
+    return int(factorial(n) / factorial(n-k))
+
+# def permutations(n, k):
+#     perm = 1
+#     for i in range(n, n-k, -1):
+#         perm *= i
+#     return perm
+
+print(permutations(10, 4))
