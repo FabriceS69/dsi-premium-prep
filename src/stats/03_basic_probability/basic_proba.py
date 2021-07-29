@@ -13,3 +13,11 @@ for pet1 in pets:
 
 # print(len(outcomes))
 # print(4**4)
+
+two_or_more_cats = []
+
+for outcome in outcomes:
+    if outcome.count('C') >= 2:
+        two_or_more_cats.append(outcome)
+
+print(len(two_or_more_cats) / len(outcomes))
