@@ -40,12 +40,17 @@ def series_of_flips(n):
 
 num_trials = 1000
 eight_heads = 0
+proba_estimations = []
 
-for _ in range(num_trials):
-    res = series_of_flips(10)
-    if res.count('H') == 8:
-        eight_heads += 1
+for _ in range(1000):
+    for _ in range(num_trials):
+        res = series_of_flips(10)
+        if res.count('H') == 8:
+            eight_heads += 1
 
-# print(eight_heads / num_trials)
+
+    proba_estimations.append(eight_heads / num_trials)
 
 
+print(proba_estimations)
+print(proba_estimations / 1000)
