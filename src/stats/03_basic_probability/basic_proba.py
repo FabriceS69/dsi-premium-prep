@@ -12,3 +12,4 @@ for pet1 in pets:
 #     print(pet_outcome)
 
 print(len(outcomes))
+print(4**4)
