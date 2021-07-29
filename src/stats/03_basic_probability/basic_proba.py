@@ -39,10 +39,12 @@ def series_of_flips(n):
 # print(series_of_flips(10))
 
 num_trials = 1000
-eight_heads = 0
+
 proba_estimations = []
 
 for _ in range(1000):
+    eight_heads = 0
+    
     for _ in range(num_trials):
         res = series_of_flips(10)
         if res.count('H') == 8:
