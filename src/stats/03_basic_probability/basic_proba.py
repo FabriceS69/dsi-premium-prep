@@ -106,4 +106,4 @@ def permutations(n, k):
         perm *= i
     return perm
 
-print(permutations(10, 4))
+# print(permutations(10, 4))
