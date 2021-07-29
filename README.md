@@ -402,6 +402,7 @@
 
 **Slide Deck**:
 * [Statistical Counting](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/21_statistical_counting.md)
+* [General Analytic Approach](https://github.com/GalvanizeOpenSource/dsi-premium-prep/blob/main/slides/22_general_analytic_approach.md)
 
 
 **HW assignment**:
