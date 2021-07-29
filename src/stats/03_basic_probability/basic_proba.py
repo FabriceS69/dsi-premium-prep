@@ -20,4 +20,20 @@ for outcome in outcomes:
     if outcome.count('C') >= 2:
         two_or_more_cats.append(outcome)
 
-print(len(two_or_more_cats) / len(outcomes))
+# print(len(two_or_more_cats) / len(outcomes))
+
+
+
+from random import choice
+
+def coin_flip():
+    flip = ['H', 'T']
+    return choice(flip)
+
+def series_of_flips(n):
+    flips = []
+    for _ in range(n):
+        flips.append(coin_flip())
+    return flips
+
+print(series_of_flips(10))
