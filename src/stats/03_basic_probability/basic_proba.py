@@ -44,7 +44,7 @@ proba_estimations = []
 
 for _ in range(1000):
     eight_heads = 0
-    
+
     for _ in range(num_trials):
         res = series_of_flips(10)
         if res.count('H') == 8:
@@ -56,3 +56,4 @@ for _ in range(1000):
 
 print(proba_estimations)
 print(sum(proba_estimations) / 1000)
+print(min(proba_estimations), ' ', max(proba_estimations))
