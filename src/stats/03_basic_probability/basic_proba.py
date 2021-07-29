@@ -102,8 +102,9 @@ def permutations(n, k):
 
 def permutations(n, k):
     perm = 1
-    for i in range((n-k)+1, n+1):
+    for i in range(n-k, n+1):
+    # for i in range((n-k)+1, n+1):
         perm *= i
     return perm
 
-print(permutations(10, 4))
+# print(permutations(10, 4))
