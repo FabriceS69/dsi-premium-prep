@@ -107,3 +107,16 @@ heaps = heaps_non_recursive(base_5, 5)
 
 # for perm in heaps:
 #     print(perm)
+
+
+def combinations(n, k):
+    return int(factorial(n) / (factorial(n-k) * factorial(k)))
+
+def combinations(n, k):
+    return int(permutations(n, k) / factorial(k))
+
+def combinations(n, k):
+    perm = 1
+    for i in range(n, n-nk, -1):
+        perm *= i
+    return int(perm / factorial(k))
