@@ -65,7 +65,6 @@ def swap(lst, idx_1, idx_2):
 # test_list = ['a', 'b', 'c', 'd']
 # print(swap(test_list, 1, 2))
 
-
 def heaps_non_recursive(lst, k):
     lst_copy = lst.copy()
 
@@ -106,5 +105,5 @@ base_5 = ['scientist', 'lawyer', 'doctor', 'astronaut', 'firefighter']
 
 heaps = heaps_non_recursive(base_5, 5)
 
-for perm in heaps:
-    print(perm)
+# for perm in heaps:
+#     print(perm)
