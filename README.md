@@ -410,7 +410,7 @@
 * Complete materials on Learn for Statistical Counting
 
 
-**Recording**: [(to be added) Lecture 18]()
+**Recording**: [Lecture 18](https://youtu.be/g6uzajIe3Hw)
 
 
 ---------------------------------------------------------
