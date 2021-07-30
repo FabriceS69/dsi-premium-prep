@@ -17,3 +17,10 @@ for f1 in ['T', 'H']:
         for f3 in ['T', 'H']:
             coin_flips.append([f1, f2, f3])
 
+S = []
+for roll in rolls:
+    for card in cards:
+        for flip in coin_flips:
+            S.append([roll, card, flip])
+
+# print(len(S))
