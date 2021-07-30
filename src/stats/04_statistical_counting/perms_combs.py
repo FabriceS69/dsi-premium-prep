@@ -132,7 +132,7 @@ def combinations(n, k):
 num_combs = combinations(11, 5)
 
 def basketball_combs():
-    eleven_nums = range(1, 11+1)
+    eleven_nums = range(1, 21+1)
 
     # every arrangement of 5
     possible_five = []
