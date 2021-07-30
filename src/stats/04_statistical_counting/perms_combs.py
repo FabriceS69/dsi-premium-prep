@@ -34,5 +34,21 @@ for p1 in base_5:
                 for p5 in base_5:
                     counting.append([p1, p2, p3, p4, p5])
 
-for p in counting:
-    print(p)
+# for p_num in counting:
+#     print(p_num)
+
+perms = []
+
+for p_num in counting:
+    perm = True
+
+    for p in p_num:
+        if p_num.count(p) > 1:
+            perm = False
+            break
+    
+    if perm == True:
+        perms.append(p_num)
+
+for p_num in perms:
+    print(p_num)
