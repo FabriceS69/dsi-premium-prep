@@ -128,3 +128,5 @@ def combinations(n, k):
 
 
 
+# An expensive counting approach
+num_combs = combinations(11, 5)
