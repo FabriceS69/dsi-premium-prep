@@ -43,7 +43,10 @@ for outcome in S:
         if outcome[2].count('H') == 2:
             hits.append(outcome)
 
-print(19/36)
-print(round(len(two_heads)/len(S), 3))
-print(round(19/36 * (len(two_heads)/len(S)), 3))
-print(round(len(hits) / len(S), 3))
+# print(19/36)
+# print(round(len(two_heads)/len(S), 3))
+# print(round(19/36 * (len(two_heads)/len(S)), 3))
+# print(round(len(hits) / len(S), 3))
+
+
+
