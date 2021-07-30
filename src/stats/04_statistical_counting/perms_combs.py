@@ -158,11 +158,12 @@ def basketball_combs():
         sorted_five = sorted(five)
 
         if sorted_five not in combs:
+            print(sorted_five)
             combs.append(sorted_five)
 
     return combs
 
 bask_combs = basketball_combs()
 
-for comb in bask_combs:
-    print(comb)
+# for comb in bask_combs:
+#     print(comb)
