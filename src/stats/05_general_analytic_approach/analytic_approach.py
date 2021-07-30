@@ -24,3 +24,6 @@ for roll in rolls:
             S.append([roll, card, flip])
 
 # print(len(S))
+
+
+
