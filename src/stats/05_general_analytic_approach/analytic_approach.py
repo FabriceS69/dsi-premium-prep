@@ -33,11 +33,16 @@ for roll in rolls:
 
 hits = []
 range_to_hit = 18
+two_heads = []
 
 for outcome in S:
+    if outcome[2].count('H') == 2:
+        two_heads.append(outcome)
+
     if outcome[0] >= range_to_hit:
         if outcome[2].count('H') == 2:
             hits.append(outcome)
 
 print(18/36)
+print(round(len(two_heads)/len(S), 3))
 print(round(len(hits) / len(S), 3))
