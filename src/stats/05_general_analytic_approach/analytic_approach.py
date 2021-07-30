@@ -45,4 +45,6 @@ for outcome in S:
 
 print(18/36)
 print(round(len(two_heads)/len(S), 3))
+print(round(18/36 * (len(two_heads)/len(S)), 3))
+
 print(round(len(hits) / len(S), 3))
