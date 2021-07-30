@@ -50,5 +50,5 @@ for p_num in counting:
     if perm == True:
         perms.append(p_num)
 
-for p_num in perms:
-    print(p_num)
+# for p_num in perms:
+#     print(p_num)
