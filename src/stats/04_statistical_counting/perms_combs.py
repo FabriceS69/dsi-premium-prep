@@ -52,3 +52,6 @@ for p_num in counting:
 
 # for p_num in perms:
 #     print(p_num)
+
+
+
