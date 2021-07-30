@@ -130,3 +130,27 @@ def combinations(n, k):
 
 # An expensive counting approach
 num_combs = combinations(11, 5)
+
+def basketball_combs():
+    eleven_nums = range(1, 11+1)
+
+    # every arrangement of 5
+    possible_five = []
+
+    for i in eleven_nums:
+        for j in eleven_nums:
+            for k in eleven_nums:
+                for l in eleven_nums:
+                    for m in eleven_nums:
+                        possible_five.append([i, j, k, l, m])
+    perms = []
+
+    for five in possible_five:
+        if len(list(set(five))) == 5:
+            perms.append(five)
+
+    for five in perms:
+        print(five)
+
+
+basketball_combs()
