@@ -27,3 +27,5 @@ for roll in rolls:
 
 
 
+for outcome in S:
+    print(outcome)
