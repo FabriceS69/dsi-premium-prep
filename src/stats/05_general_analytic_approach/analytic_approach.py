@@ -39,4 +39,5 @@ for outcome in S:
         if outcome[2].count('H') == 2:
             hits.append(outcome)
 
+print(18/36)
 print(round(len(hits) / len(S), 3))
