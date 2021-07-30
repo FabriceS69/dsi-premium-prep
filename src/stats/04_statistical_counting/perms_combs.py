@@ -23,3 +23,16 @@ def permutations(n, k):
 
 
 
+base_5 = ['scientist', 'lawyer', 'doctor', 'astronaut', 'firefighter']
+
+counting = []
+
+for p1 in base_5:
+    for p2 in base_5:
+        for p3 in base_5:
+            for p4 in base_5:
+                for p5 in base_5:
+                    counting.append([p1, p2, p3, p4, p5])
+
+for p in counting:
+    print(p)
