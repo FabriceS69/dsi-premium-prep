@@ -11,3 +11,9 @@ for suit in suits:
 # for card in cards:
 #     print(card)
 
+coin_flips = []
+for f1 in ['T', 'H']:
+    for f2 in ['T', 'H']:
+        for f3 in ['T', 'H']:
+            coin_flips.append([f1, f2, f3])
+
