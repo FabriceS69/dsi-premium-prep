@@ -55,3 +55,13 @@ for p_num in counting:
 
 
 
+def swap(lst, idx_1, idx_2):
+    lst_ = lst.copy()
+    temp = lst_[idx_2]
+    lst_[idx_2] = lst_[idx_1]
+    lst_[idx_1] = temp
+    return lst_ 
+
+test_list = ['a', 'b', 'c', 'd']
+
+print(swap(test_list, 0, 2))
