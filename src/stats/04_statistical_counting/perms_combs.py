@@ -219,5 +219,5 @@ def combs_alg_from_itertools(lst, k):
             indices[j] = indices[j-1] + 1
         yield tuple(lst_frozen[i] for i in indices)    
 
-for team in combs_alg_from_itertools(list(range(1, 21+1)), 5):
-    print(team)
+# for team in combs_alg_from_itertools(list(range(1, 21+1)), 5):
+#     print(team)
