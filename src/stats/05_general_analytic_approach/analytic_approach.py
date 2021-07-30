@@ -59,3 +59,4 @@ def num_attendees():
         num_peeps += choice(range(0, 11+1))
     return num_peeps
 
+print(num_attendees())
