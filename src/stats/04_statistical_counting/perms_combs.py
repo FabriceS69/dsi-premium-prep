@@ -76,6 +76,9 @@ def heaps_non_recursive(lst, k):
 
     i = 0 # acts like a pointer to c
     while i < len(lst_copy):
+
+        input(lst_copy)
+
         if c[i] < i:
             if i % 2 == 0:
                 lst_copy = swap(lst_copy, 0, i)
