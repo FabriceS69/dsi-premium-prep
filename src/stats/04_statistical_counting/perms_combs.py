@@ -103,7 +103,7 @@ def heaps_non_recursive(lst, k):
 base_5 = ['scientist', 'lawyer', 'doctor', 'astronaut', 'firefighter']
 
 
-heaps = heaps_non_recursive(base_5, 5)
+# heaps = heaps_non_recursive(base_5, 5)
 
 # for perm in heaps:
 #     print(perm)
