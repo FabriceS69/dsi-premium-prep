@@ -121,5 +121,5 @@ def combinations(n, k):
         perm *= i
     return int(perm / factorial(k))
 
+# print(combinations(52, 5)) # 2598960
 
-print(combinations(52, 5))
