@@ -64,4 +64,4 @@ def swap(lst, idx_1, idx_2):
 
 test_list = ['a', 'b', 'c', 'd']
 
-print(swap(test_list, 0, 2))
+print(swap(test_list, 1, 2))
