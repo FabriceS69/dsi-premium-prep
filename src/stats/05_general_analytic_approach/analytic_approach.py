@@ -27,5 +27,16 @@ for roll in rolls:
 
 
 
+# for outcome in S:
+#     print(outcome)
+
+
+hits = []
+range_to_hit = 18
+
 for outcome in S:
-    print(outcome)
+    if outcome[0] >= range_to_hit:
+        if outcome[2].count('H') == 2:
+            hits.append(outcome)
+
+print(round(len(hits) / len(S), 3))
