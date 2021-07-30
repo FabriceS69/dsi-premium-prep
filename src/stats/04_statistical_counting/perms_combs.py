@@ -117,6 +117,9 @@ def combinations(n, k):
 
 def combinations(n, k):
     perm = 1
-    for i in range(n, n-nk, -1):
+    for i in range(n, n-k, -1):
         perm *= i
     return int(perm / factorial(k))
+
+
+print(combinations(52, 5))
