@@ -207,7 +207,7 @@ def combs_alg_from_itertools(lst, k):
         return 
 
     indices = list(range(k))
-    yield tuple(list_frozen[i] for i in indices)
+    yield tuple(lst_frozen[i] for i in indices)
     while True:
         for i in reversed(range(k)):
             if indices[i] != i + n-k:
