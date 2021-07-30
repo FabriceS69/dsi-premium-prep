@@ -194,5 +194,6 @@ def basketball_combs_samp(team_size=11, num_players=5):
             combs.append(player_comb)
     return combs
 
+# combs_samp = basketball_combs_samp(team_size=21, num_players=5)
 
-combs_samp = basketball_combs_samp(team_size=21, num_players=5)
+
